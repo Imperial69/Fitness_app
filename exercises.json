@@ -16,7 +16,7 @@
         },
         {
             "id": "3",
-            "title": "Abs Workout 2",
+            "title": "Plank Workout",
             "thumbnail": "https://raw.githubusercontent.com/codeifitech/fitness-app/master/thumbnails/cathy-pham-3jAN9InapQI-unsplash.jpg",
             "gif": "https://raw.githubusercontent.com/codeifitech/fitness-app/master/gif/abs_workout_2.gif",
             "seconds": "30"
@@ -44,7 +44,7 @@
         },
         {
             "id": "7",
-            "title": "Butt Legs Thighs",
+            "title": "Glutes",
             "thumbnail": "https://raw.githubusercontent.com/codeifitech/fitness-app/master/thumbnails/selective-focus-photography-of-woman-in-pink-shirt-1199590.jpg",
             "gif": "https://raw.githubusercontent.com/codeifitech/fitness-app/master/gif/butt_legs_thighs.gif",
             "seconds": "30"
